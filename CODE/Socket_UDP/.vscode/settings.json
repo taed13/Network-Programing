@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Handle the String/src",
+        "Chat between Client&Server/src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
